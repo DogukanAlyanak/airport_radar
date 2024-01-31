@@ -1,0 +1,7 @@
+{
+    "taxi_speed" : 20,
+    "approach_final_speed" : 160,
+    "landing_start_speed" : 160,
+    "fly_speed" : 560,
+    "pushback_speed" : 7.5
+}
